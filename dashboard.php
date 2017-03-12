@@ -20,7 +20,7 @@ if ($_SESSION["confirmed"])
 		</style>
 	</head>
 	<body>
-		<h1>Welcome to the Hacker Replublic, citizen <?php echo $_SESSION["login"];?>.</h1>
+		<h1>Welcome to the Hacker Republic, citizen <?php echo $_SESSION["login"];?>.</h1>
 	</body>
 </html>
 
