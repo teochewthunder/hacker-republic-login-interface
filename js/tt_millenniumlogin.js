@@ -200,6 +200,8 @@ function confirm_screen(id,password)
 {
 	document.getElementById("confirmid").style.display=(id?"block":"none");
 	document.getElementById("confirmpassword").style.display=(password?"block":"none");
+	
+	document.getElementById("guard_wrapper").style.backgroundImage="url(img/laracroft"+(id?"":"_proveit")+".jpg)";
 }
 
 function getUrl(imgindex)
