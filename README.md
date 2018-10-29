@@ -1,6 +1,6 @@
 # Hacker Republic Login Interface
 
-After reading *The Girl Who Kicked The Hornet's Nest*, there was one very cool sequence in the book where the protagonist, who is a computer hacker, logs into Hacker Republic's site. This login sequence simulates that.
+In the novel *The Girl Who Kicked The Hornet's Nest*, there was one very cool sequence where the protagonist, who is a computer hacker, logs into Hacker Republic's site. This login sequence simulates that.
 
 *She started by going on to a website that advertised rather uninteresting pictures by an unknown and not especially skilled amateur photographer called Gil Bates in Jobsville, Pennsylvania. Salander had once checked it out and confirmed that the town of Jobsville did not exist. Nevertheless, Bates had taken more than 200 photographs of the community and created a gallery of small thumbnails. She scrolled down to image 167 and clicked to enlarge it. It showed the church in Jobsville.*
 
